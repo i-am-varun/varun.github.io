@@ -1,0 +1,1 @@
+A view to change the profile picture.

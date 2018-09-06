@@ -1,0 +1,1 @@
+A chat view page containing messages with an individual or a group
